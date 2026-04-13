@@ -15,16 +15,11 @@ This plugin was used to build [EquiRound](https://equiround.com) — a productio
 
 ## Two Ways to Use This
 
-### 1. Read the Playbook
+Use the **Claude Code plugin** if you want an AI-guided experience — Claude will ask what you're building, make decisions with you, and generate your entire site or app interactively. Use the **playbook** if you prefer to follow a written guide at your own pace, or if you don't use Claude Code.
 
-Step-by-step guides you can follow in any development environment:
+### 1. Install the Claude Code Plugin (Recommended)
 
-- **[Build a Marketing Site](docs/marketing-site.md)** — Create a SaaS marketing website with Saasify
-- **[Build a Web App](docs/web-app.md)** — Scaffold a SaaS application with Fireact
-
-### 2. Install the Claude Code Plugin
-
-If you use [Claude Code](https://claude.ai/code), install this as a plugin for an interactive, guided experience:
+Install as a [Claude Code](https://claude.ai/code) plugin and let Claude build your SaaS with you:
 
 ```bash
 claude plugin add github:saasroo/build-saas
@@ -48,6 +43,13 @@ The plugin includes three skills:
 - **`build-saas`** — Orchestrator that guides you through the full SaaS build
 - **`build-marketing-site`** — Marketing site builder (Saasify)
 - **`build-web-app`** — Web app builder (Fireact)
+
+### 2. Read the Playbook
+
+Step-by-step guides you can follow in any development environment:
+
+- **[Build a Marketing Site](docs/marketing-site.md)** — Create a SaaS marketing website with Saasify
+- **[Build a Web App](docs/web-app.md)** — Scaffold a SaaS application with Fireact
 
 ## What You'll Build
 
