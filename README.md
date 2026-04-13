@@ -6,14 +6,12 @@ Build a complete SaaS with two open-source tools:
 - **[Saasify](https://saasify.dev)** — Hugo theme for marketing websites (landing pages, pricing, blog, docs)
 - **[Fireact](https://fireact.dev)** — Framework for web apps (auth, billing, teams — Firebase + React + Stripe)
 
-## Built with Build SaaS
+## See It in Action
 
-### EquiRound — Cap Table & Equity Management
+This plugin was used to build [EquiRound](https://equiround.com) — a production SaaS for cap table management, ESOP tracking, and funding round dilution simulation. From zero to a live product with a marketing site and a full web app:
 
-[EquiRound](https://equiround.com) was built using the skills in this plugin. It's a cap table management, ESOP tracking, and funding round dilution simulation SaaS for startups and SMBs:
-
-- **Marketing site** — Built with the `build-marketing-site` skill using Hugo + Saasify theme. Homepage, solutions pages, pricing, company page, and blog. Multilingual (9 languages).
-- **Web app** — Built with the `build-web-app` skill using React 19 + TypeScript + Firebase + Fireact. Authentication (Google OAuth + email), Stripe billing, team management with role-based permissions (founder, investor, advisor, employee), and 57 components across cap table, ESOP, simulation, and investor portal modules.
+- **Marketing site** — Hugo + Saasify theme with homepage, solutions pages, pricing, company page, blog, and 9 languages
+- **Web app** — React 19 + Firebase + Fireact with Google OAuth, Stripe billing, team permissions, and 57 components for cap table, ESOP, simulation, and investor portal
 
 ## Two Ways to Use This
 
