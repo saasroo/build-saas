@@ -69,6 +69,17 @@ A production-ready SaaS application with:
 - Local development with Firebase emulators
 - CI/CD deployment to Firebase Hosting
 
+## Showcase
+
+### EquiRound — Cap Table & Equity Management
+
+[EquiRound](https://equiround.com) is a cap table management, ESOP tracking, and funding round dilution simulation SaaS built entirely with the tools in this playbook:
+
+- **Marketing site** — Built with Hugo + Saasify theme. Includes homepage, solutions pages, pricing, company page, and blog. Multilingual (9 languages).
+- **Web app** — Built with React 19 + TypeScript + Firebase + Fireact. Features authentication (Google OAuth + email), Stripe billing, team management with role-based permissions (founder, investor, advisor, employee), and 57 components across cap table, ESOP, simulation, and investor portal modules.
+
+EquiRound demonstrates what you can build by following this playbook — from a marketing site to a full production SaaS app with complex domain logic on top of the Saasify + Fireact foundation.
+
 ## Prerequisites
 
 ### For Marketing Site
