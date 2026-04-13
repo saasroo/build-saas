@@ -6,6 +6,15 @@ Build a complete SaaS with two open-source tools:
 - **[Saasify](https://saasify.dev)** — Hugo theme for marketing websites (landing pages, pricing, blog, docs)
 - **[Fireact](https://fireact.dev)** — Framework for web apps (auth, billing, teams — Firebase + React + Stripe)
 
+## Built with Build SaaS
+
+### EquiRound — Cap Table & Equity Management
+
+[EquiRound](https://equiround.com) was built using the skills in this plugin. It's a cap table management, ESOP tracking, and funding round dilution simulation SaaS for startups and SMBs:
+
+- **Marketing site** — Built with the `build-marketing-site` skill using Hugo + Saasify theme. Homepage, solutions pages, pricing, company page, and blog. Multilingual (9 languages).
+- **Web app** — Built with the `build-web-app` skill using React 19 + TypeScript + Firebase + Fireact. Authentication (Google OAuth + email), Stripe billing, team management with role-based permissions (founder, investor, advisor, employee), and 57 components across cap table, ESOP, simulation, and investor portal modules.
+
 ## Two Ways to Use This
 
 ### 1. Read the Playbook
@@ -68,17 +77,6 @@ A production-ready SaaS application with:
 - TailwindCSS responsive UI
 - Local development with Firebase emulators
 - CI/CD deployment to Firebase Hosting
-
-## Showcase
-
-### EquiRound — Cap Table & Equity Management
-
-[EquiRound](https://equiround.com) is a cap table management, ESOP tracking, and funding round dilution simulation SaaS built entirely with the tools in this playbook:
-
-- **Marketing site** — Built with Hugo + Saasify theme. Includes homepage, solutions pages, pricing, company page, and blog. Multilingual (9 languages).
-- **Web app** — Built with React 19 + TypeScript + Firebase + Fireact. Features authentication (Google OAuth + email), Stripe billing, team management with role-based permissions (founder, investor, advisor, employee), and 57 components across cap table, ESOP, simulation, and investor portal modules.
-
-EquiRound demonstrates what you can build by following this playbook — from a marketing site to a full production SaaS app with complex domain logic on top of the Saasify + Fireact foundation.
 
 ## Prerequisites
 
