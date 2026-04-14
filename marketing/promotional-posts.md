@@ -159,7 +159,7 @@ github.com/saasroo/build-saas
 ### Show HN Post
 
 ```
-Title: Show HN: I built a Claude Code plugin that ships production ready full SaaS product
+Title: Show HN: I built a Claude Code plugin that ships production ready SaaS product
 URL: https://github.com/saasroo/build-saas
 ```
 
