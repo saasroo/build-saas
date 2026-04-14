@@ -23,6 +23,7 @@ Google Ads is more effective and faster than all of them, because people have in
 3. Set a daily budget you're comfortable losing entirely. Think of it as paying for market research.
 4. Track cost per signup, not clicks. Clicks mean nothing if nobody signs up.
 5. Kill keywords that spend without converting after 3-5 days. Double down on ones that work.
+6. Use Google Ads sign-up offer. They give you 1:1 matching credits when you spend a few hundred dollars. That cuts your cost of learning in half.
 
 **"Google Ads is too expensive for a startup."** It is. You will probably not be profitable on ads. But at this stage, profitability is not what matters. Your first 5-10 customers are not a revenue source, they're a feedback source. They tell you what's missing, what's confusing, and what they'd actually pay more for. That's worth far more than the ad spend. Optimize for traction and learning, not margins. Profit comes later when you layer on organic channels.
 
