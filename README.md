@@ -3,7 +3,7 @@
 An open-source playbook and [Claude Code](https://claude.ai/code) plugin for building SaaS products from scratch.
 
 Build a complete SaaS with two open-source tools:
-- **[Saasify](https://saasify.dev)** — Hugo theme for marketing websites (landing pages, pricing, blog, docs)
+- **[Saasify](https://github.com/chaoming/hugo-saasify-theme)** — Hugo theme for marketing websites (landing pages, pricing, blog, docs)
 - **[Fireact](https://fireact.dev)** — Framework for web apps (auth, billing, teams — Firebase + React + Stripe)
 
 ## See It in Action
