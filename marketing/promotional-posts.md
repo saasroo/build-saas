@@ -160,28 +160,7 @@ github.com/saasroo/build-saas
 
 ```
 Title: Show HN: Build SaaS – Open-source Claude Code plugin for building SaaS products
-
-Body:
-Hey HN,
-
-I open-sourced Build SaaS (github.com/saasroo/build-saas), a Claude Code plugin + playbook for building SaaS products from scratch.
-
-It covers two things every SaaS needs:
-
-1. Marketing site — Uses Saasify (saasify.dev), an open-source Hugo theme with 21 shortcodes for SaaS pages (hero, pricing tables, testimonials, FAQ, etc.), i18n support, and 90+ Lighthouse scores.
-
-2. Web app — Uses Fireact (fireact.dev), an open-source framework built on React 19 + Firebase + Stripe. Gives you auth (email, Google, GitHub), subscription billing, team management with RBAC, and Cloud Functions out of the box.
-
-Two ways to use it:
-
-- Install as a Claude Code plugin (`claude plugin add github:saasroo/build-saas`) and build interactively with AI
-- Read the playbook docs and follow along manually
-
-We used it ourselves to build EquiRound (equiround.com) — a cap table management platform with 57 components, 9 languages, and Stripe billing.
-
-Everything is MIT licensed. The plugin, Saasify, and Fireact are all open source.
-
-Would love feedback on what's missing or what would make this more useful for your next SaaS project.
+URL: https://github.com/saasroo/build-saas
 ```
 
 ---
