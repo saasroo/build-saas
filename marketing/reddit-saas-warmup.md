@@ -28,4 +28,4 @@ Google Ads is more effective and faster than all of them, because people have in
 
 Once you have those early customers and their feedback, you have enough signal to invest in slower channels — SEO, content, community. But don't start there. Start where the intent is.
 
-What channels got you your first paying customer?
+Would you spend $500 to get 5 customers who help you build a better product — even if you lose money on every one of them?
