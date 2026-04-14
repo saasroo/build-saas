@@ -1,6 +1,6 @@
 # r/SaaS (warmup post — no links)
 
-**Title:** Google Ads got me my first paying customer faster than any other channel
+**Title:** The fastest way to get your first SaaS customer
 
 ---
 
