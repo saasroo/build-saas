@@ -24,9 +24,7 @@ Google Ads is more effective and faster than all of them, because people have in
 4. Track cost per signup, not clicks. Clicks mean nothing if nobody signs up.
 5. Kill keywords that spend without converting after 3-5 days. Double down on ones that work.
 
-**Common objection: "Google Ads is too expensive for a startup."** It's expensive if you're bidding on broad, competitive terms. Long-tail SaaS keywords and competitor alternative keywords in niche verticals can be $1-3 per click. If your conversion rate is 5%, that's $20-60 per signup. For a $49/mo product, you pay back the acquisition cost in the first month.
-
-**"But I'm not profitable on ads."** You probably won't be, and that's fine. At the early stage, traction and feedback are more valuable than profit. Five paying customers who tell you what's missing, what's confusing, and what they'd pay more for — that's worth far more than the ad spend. You're not buying customers, you're buying signal. Optimize for learning, not margins.
+**Common objection: "Google Ads is too expensive for a startup."** Yes, it can be. And you probably won't be profitable on ads at the early stage. But profitability is not what you're optimizing for. Traction and feedback are more valuable than margins right now. Five paying customers who tell you what's missing, what's confusing, and what they'd pay more for — that's worth far more than the ad spend. You're not buying customers, you're buying signal.
 
 Once you have 5-10 paying customers from ads, you have enough signal to invest in slower channels — SEO, content, community. But don't start there. Start where the intent is.
 
