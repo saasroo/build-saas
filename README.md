@@ -19,10 +19,11 @@ Use the **Claude Code plugin** if you want an AI-guided experience — Claude wi
 
 ### 1. Install the Claude Code Plugin (Recommended)
 
-Install as a [Claude Code](https://claude.ai/code) plugin and let Claude build your SaaS with you:
+Install as a [Claude Code](https://claude.ai/code) plugin and let Claude build your SaaS with you. Inside Claude Code, run:
 
-```bash
-claude plugin add github:saasroo/build-saas
+```
+/plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 ```
 
 Then tell Claude what you want to build:

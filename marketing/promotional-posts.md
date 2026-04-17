@@ -12,7 +12,8 @@ Tell Claude what you're building. It scaffolds:
 - Web app with auth, billing, teams (React + Firebase + Stripe)
 
 One command to install:
-claude plugin add github:saasroo/build-saas
+/plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 
 github.com/saasroo/build-saas
 ```
@@ -62,7 +63,8 @@ github.com/saasroo/build-saas
 ```
 What if starting a SaaS was one prompt away?
 
-claude plugin add github:saasroo/build-saas
+/plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 
 Marketing site + web app + auth + billing + teams. Open source.
 ```
@@ -100,7 +102,8 @@ We used it ourselves to build EquiRound (equiround.com) — a cap table manageme
 
 Open source, MIT licensed.
 
-Install: claude plugin add github:saasroo/build-saas
+Install: /plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 Repo: github.com/saasroo/build-saas
 
 Built with Saasify (saasify.dev) and Fireact (fireact.dev).
@@ -259,5 +262,6 @@ Build SaaS packages two open-source tools (Saasify for marketing sites, Fireact 
 
 Would love your feedback on what's missing or what would make this more useful.
 
-Install: claude plugin add github:saasroo/build-saas
+Install: /plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 ```

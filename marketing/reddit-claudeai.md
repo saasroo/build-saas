@@ -9,7 +9,8 @@ I've been using Claude Code to build SaaS products and kept repeating the same s
 **How it works:**
 
 ```
-claude plugin add github:saasroo/build-saas
+/plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 ```
 
 Then just tell Claude what you're building:

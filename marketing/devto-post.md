@@ -51,7 +51,8 @@ Built on [Fireact](https://github.com/fireact-dev/main), an open-source SaaS fra
 Install the plugin:
 
 ```bash
-claude plugin add github:saasroo/build-saas
+/plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 ```
 
 Then just tell Claude what you want:
@@ -135,7 +136,8 @@ A Claude Code plugin was the natural next step. Package the knowledge into skill
 ## Get Started
 
 ```bash
-claude plugin add github:saasroo/build-saas
+/plugin marketplace add saasroo/build-saas
+/plugin install build-saas
 ```
 
 Or read the playbook: [github.com/saasroo/build-saas](https://github.com/saasroo/build-saas)
