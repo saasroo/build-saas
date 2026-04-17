@@ -23,7 +23,7 @@ Install as a [Claude Code](https://claude.ai/code) plugin and let Claude build y
 
 ```
 /plugin marketplace add saasroo/build-saas
-/plugin install build-saas
+/plugin install build-saas@build-saas-marketplace
 ```
 
 Then tell Claude what you want to build:

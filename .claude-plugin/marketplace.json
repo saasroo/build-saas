@@ -1,0 +1,23 @@
+{
+  "name": "build-saas-marketplace",
+  "owner": {
+    "name": "Saasroo",
+    "email": "hello@saasroo.com"
+  },
+  "metadata": {
+    "description": "SaaS building skills: marketing sites with Saasify + web apps with Fireact",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "build-saas",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/saasroo/build-saas.git"
+      },
+      "description": "Build SaaS products from scratch: marketing sites with Saasify + web apps with Fireact",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
